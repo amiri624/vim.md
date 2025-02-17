@@ -6,6 +6,7 @@
 ```bash
 :wq
 ```
+#### OR
 ```bash
 :w !sudo tee %
 ```
