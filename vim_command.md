@@ -1,3 +1,7 @@
+## Search
+```bash
+gg(Number of line=
+```
 ## Without save
 ```bash
 :q!
