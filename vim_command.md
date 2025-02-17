@@ -1,3 +1,7 @@
+### Without save
+```bash
+:q!
+```
 ### save 
 ```bash
 :wq
