@@ -1,8 +1,8 @@
-### Without save
+## Without save
 ```bash
 :q!
 ```
-### save 
+## save 
 ```bash
 :wq
 ```
@@ -10,7 +10,7 @@
 ```bash
 :w !sudo tee %
 ```
-### See line number
+## See line number
 ```bash
 :set number
 ```
