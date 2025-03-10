@@ -11,7 +11,7 @@ gg(Number of line)
 ```bash
 :wq
 ```
-###### OR
+######## OR
 ```bash
 :w !sudo tee %
 ```
